@@ -1,0 +1,18 @@
+Room Number 3410 network setting project
+
+part 1
+- OSI 1-4 Layer 
+- device: switch, router
+
+2023.11.30
+Switch Model select
+ - cisco, HP, Sun... etc
+ - price : 10000 dolla
+
+Router Model select
+ - L3 switch
+ - Router 
+
+part 2
+- OSI 5-7 Layer
+- Application: app, network program
